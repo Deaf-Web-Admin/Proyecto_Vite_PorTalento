@@ -1,0 +1,8 @@
+main {
+	width: 100vw;
+	height: 75vh;
+}
+main img {
+	width: 70vw;
+	height: auto;
+}

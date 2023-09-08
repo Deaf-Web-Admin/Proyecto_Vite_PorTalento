@@ -1,0 +1,24 @@
+fecha limite
+titulo
+fecha inicio
+lugar
+duracion
+plazas
+modalidad
+requisitos
+descripcion
+
+boton inscripcion
+
+
+inicio
+	sobre nosotros
+	colaoradores
+contacto
+	redes sociales
+	direccion
+	telefono
+	correo
+
+galeria
+cursos

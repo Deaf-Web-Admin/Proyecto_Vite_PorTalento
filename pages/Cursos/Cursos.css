@@ -1,0 +1,29 @@
+.CursosContainer {
+	width: 100vw;
+	height: 70vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	flex-wrap: wrap;
+	color: black;
+	flex-wrap: nowrap;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+.Cajita1 {
+	font-size: xx-large;
+	color: blue;
+	text-align: center;
+}
+.Cajita8,
+.Cajita7 {
+	text-align: center;
+}
+.Cajita9 {
+	margin-bottom: 20px;
+}
+@media only screen and (max-width: 500px) {
+	.CursosContainer {
+		width: 100vw;
+	}
+}

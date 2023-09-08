@@ -1,0 +1,25 @@
+main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 90vh;
+}
+.InicioContainer {
+	width: 50vw;
+	height: 30vh;
+}
+p {
+	color: black;
+}
+
+H2 {
+	text-align: center;
+	margin-bottom: 50px;
+}
+@media only screen and (max-width: 500px) {
+	.InicioContainer {
+		width: 90vw;
+		height: 70vh;
+	}
+}

@@ -1,0 +1,14 @@
+footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 10vh;
+}
+ul {
+	display: flex;
+}
+li {
+	padding-left: 15px;
+}
